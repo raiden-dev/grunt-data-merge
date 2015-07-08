@@ -24,7 +24,7 @@ describe('Grunt task', function () {
     hooker.unhook(grunt.log);
   });
 
-  it('task should exist', function () {
+  it('should exist', function () {
     if (!grunt.task.exists('data-merge')) {
       throw new Error('Task "data-merge" was not found');
     }
@@ -56,7 +56,7 @@ describe('Grunt task', function () {
     });
   });
 
-  it('should write result as JSON', function () {
+  it('should write result as JSON for the rest', function () {
     var src = 'tmp/foo.json',
         dest = 'tmp/bar.json';
 
