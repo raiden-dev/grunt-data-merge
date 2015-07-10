@@ -53,6 +53,7 @@
     "grunt-coveralls": "^1.0.0",
     "grunt-mocha-test": "^0.12.4",
     "mocha": "^2.0.1",
-    "mocha-lcov-reporter": "0.0.1"
+    "mocha-lcov-reporter": "0.0.1",
+    "should": "^7.0.2"
   }
 }
