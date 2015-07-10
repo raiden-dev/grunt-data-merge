@@ -1,4 +1,4 @@
-# grunt-data-merge v0.1.0 [![Build Status](https://travis-ci.org/rd5/grunt-data-merge.svg?branch=master)](https://travis-ci.org/rd5/grunt-data-merge) [![Coverage Status](https://coveralls.io/repos/rd5/grunt-data-merge/badge.png?branch=master)](https://coveralls.io/r/rd5/grunt-data-merge?branch=master)
+# grunt-data-merge v0.1.0 [![Build Status](https://travis-ci.org/rd5/grunt-data-merge.svg?branch=master)](https://travis-ci.org/rd5/grunt-data-merge) [![Coverage Status](https://coveralls.io/repos/rd5/grunt-data-merge/badge.svg?branch=master&service=github)](https://coveralls.io/github/rd5/grunt-data-merge?branch=master)
 
 > Merge JSON/YAML data files.
 
