@@ -1,6 +1,6 @@
 {
   "name": "grunt-data-merge",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Merge JSON/YAML data files.",
   "homepage": "https://github.com/rd5/grunt-data-merge",
   "author": "Andrey Kravtsov <raidendev@gmail.com>",
