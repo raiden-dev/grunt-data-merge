@@ -39,9 +39,6 @@
   "directories": {
     "test": "tests"
   },
-  "peerDependencies": {
-    "grunt": "^0.4.5"
-  },
   "dependencies": {
     "cli-color": "^0.3.2",
     "js-yaml": "^3.2.3",
@@ -49,7 +46,7 @@
   },
   "devDependencies": {
     "blanket": "^1.1.6",
-    "grunt": "^0.4.5",
+    "grunt": ">=0.4.0",
     "grunt-coveralls": "^1.0.0",
     "grunt-mocha-test": "^0.12.4",
     "mocha": "^2.0.1",
